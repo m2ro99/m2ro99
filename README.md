@@ -22,4 +22,4 @@ I'm still Learning and Studying to be more <i>Special</i> , <i>Talented</i> and 
 <span><img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/bootstrap.gif" width="90px" title="Bootstrap"</img></span>
 </div>
 <hr>
-<img src="https://res.cloudinary.com/cloudinary-marketing/images/c_fill,w_750/f_auto,q_auto/v1649720751/Web_Assets/blog/Mario_1/Mario_1-gif?_i=AA" width="100%" height="20%" alt="XD">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="XD">
