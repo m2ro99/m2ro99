@@ -1,3 +1,5 @@
+
+
 <a href="https://r2mbo.github.io/My-Portfolio/" target="_blank" ><img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" alt="programmer"></a>
 
 <h1 align="center">Welcome to My Github <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px">
@@ -22,4 +24,9 @@ I'm still Learning and Studying to be more <i>Special</i> , <i>Talented</i> and 
 <span><img src="https://raw.githubusercontent.com/swapnilg4u/useful-resources/main/GIFs/bootstrap.gif" width="90px" title="Bootstrap"</img></span>
 </div>
 <hr>
-<a href="https://github.com/R2mbo"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="XD"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r2mbo&label=Profile%20views&color=0e75b6&style=flat" alt="r2mbo" /> </p>
+<p  align="center"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r2mbo" alt="r2mbo" /></a> 
+
+<a href="https://github.com/R2mbo"><img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="XD"></a>
+
+
