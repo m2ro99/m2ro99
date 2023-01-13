@@ -17,7 +17,7 @@ I'm still Learning and Studying to be more <i>Special</i> , <i>Talented</i> and 
 <span><img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="90px" title="Hyper Text Markup Language"</img></span>
 </div>
 
-<h2>Things I'm Learning :-</h2>  
+<h2>Things I'm Learning :-</h2> 
 <div align="center">
 <span><img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="90px" title="Javascript"</img></span>
 <span><img src="https://media0.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b95269911e58d4b418309102d0daa0339097a2756244&rid=giphy.gif&ct=s" width="90px" title="React"</img></span>
@@ -25,7 +25,7 @@ I'm still Learning and Studying to be more <i>Special</i> , <i>Talented</i> and 
 </div>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r2mbo&label=Profile%20views&color=0e75b6&style=flat" alt="r2mbo" /> </p>
-<p  align="center"> <a  href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r2mbo" alt="r2mbo" /></a> 
+<p  align="center"> <a href="https://github.com/R2mbo"><img src="https://github-profile-trophy.vercel.app/?username=r2mbo&theme=onedark" alt="r2mbo" /></a> 
 
 <a href="https://github.com/R2mbo"><img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="XD"></a>
 
