@@ -1,14 +1,11 @@
 <br clear="both">
 
 ```json
-{
-  "name":"Marwan",
-  "age": 21,
-  "Job": "Frontend Developer",
-  "Company": null,
-  "Location": "Cairo, Egypt",
-}
-
+"name":"Marwan",
+"age": 21,
+"Job": "Frontend Developer",
+"Company": null,
+"Location": "Cairo, Egypt",
 ```
 ###
 
