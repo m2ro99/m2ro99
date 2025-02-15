@@ -5,7 +5,7 @@
 "name":"Marwan",
 "age": 21,
 "Job": "Frontend Developer",
-"Company": "Taza",
+"Company": null,
 "Location": "Cairo, Egypt"
 }
 ```
