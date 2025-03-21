@@ -18,6 +18,7 @@
   <a href='https://www.figma.com/' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
   <a href='https://git-scm.com/' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  /></a>
   ## Frameworks
+  <a href='https://nextjs.org/' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  /></a>
   <a href='https://expressjs.com/' target="_blank"><img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  /></a>
   ## Databases
   <a href='https://www.mongodb.com/' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /></a>
