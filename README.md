@@ -7,6 +7,7 @@
   <a href='https://cplusplus.com/' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  /></a>
   <a href='https://www.python.org/' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
   <a href='https://learn.microsoft.com/en-us/dotnet/csharp/' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  /></a>
+  <a href='#' target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  /></a>
   ## Tools
   <a href='https://react.dev/' target="_blank"> <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  /></a>
   <a href='https://tailwindcss.com/' target="_blank"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  /></a>
