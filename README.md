@@ -1,8 +1,8 @@
+
 <div>
-  <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=Welcome&fontSize=55&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=09090b"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20To%20My%20Github%20Profile&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=311B92"  />
 </div>
 
-###
 # Marwan Ashraf Mohamed   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=m2ro99.m2ro99&left_color=royalblue&right_color=royalblue&left_text=Profile%20Views"/>
 
 📍 Cairo, Egypt  
@@ -36,4 +36,7 @@
 <hr>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m2ro99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+<div>
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=311B92"  />
 </div>
