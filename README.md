@@ -3,12 +3,11 @@
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20To%20My%20Github%20Profile&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=311B92"  />
 </div>
 
-# Marwan Ashraf Mohamed   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=m2ro99.m2ro99&left_color=royalblue&right_color=royalblue&left_text=Profile%20Views"/>
+# 💻 Full Stack .NET Developer
 
-📍 Cairo, Egypt  
-📧 xmarwanashraf@gmail.com  
-📞 +201098717240  
-🔗 [LinkedIn](https://www.linkedin.com/in/marwanashraf1)
+I build and maintain web applications using ASP.NET Core and React. I focus on writing clean, efficient, and maintainable code that keeps things running smoothly and performs well.
+I enjoy solving real problems, improving existing systems, and learning new technologies along the way. Always aiming to write better code, work smarter with others, and build software that actually makes a difference.
+
 ###
 <div align="left">
   <img title="HTML" src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo"  />
