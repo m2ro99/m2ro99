@@ -1,6 +1,6 @@
 
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20To%20My%20Github%20Profile&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=311B92"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Welcome%20to%20my%20Github&fontSize=55&fontColor=00bcff&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=1447e6"  />
 </div>
 
 # 💻 Full Stack .NET Developer   <div><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=m2ro99.m2ro99&left_color=royalblue&right_color=royalblue&left_text=Profile%20Views"  /></div>
@@ -37,5 +37,5 @@ I enjoy solving real problems, improving existing systems, and learning new tech
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m2ro99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <div>
-  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=311B92"  />
+  <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=62748E&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1447e6"  />
 </div>
