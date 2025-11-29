@@ -31,9 +31,6 @@ I enjoy solving real problems, improving existing systems, and learning new tech
   <a href='https://www.mysql.com/' title="MySQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" alt="mysql logo"  /></a>
   <a href='https://www.microsoft.com/en-us/sql-server/sql-server-downloads' title="MSSQL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="55" alt="microsoftsqlserver logo"  /></a>
 <hr>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m2ro99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 <div>
   <img style="width:100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=true&fontSize=70&fontColor=62748E&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1447e6"  />
 </div>
